@@ -1,11 +1,12 @@
-S.No.,Part Name,Part Number,Description,Quantity,Material (Exported),Printing Cost (INR),Total Cost (INR),Print Status
-1,Component_Clearance,2026-11-18-01-54-57-566,Reference only - clearance keep-out volumes. Do not print.,1,Steel,N/A,N/A,Not for printing
-2,Base_Enclosure,2026-11-18-01-23-41-298,Main outer enclosure,1,Steel,,,Printable part - verify material
-3,Reference_Envelopes,2026-11-18-01-54-56-940,Reference only - envelopes not real STEP models. Do not print.,1,Steel,N/A,N/A,Not for printing
-4,Phone_Holder,2026-11-18-01-29-00-402,Smartphone holder,1,Steel,,,Printable part - verify material
-5,Watch_Holder,2026-11-18-01-29-01-069,Smartwatch holder,1,Steel,,,Printable part - verify material
-6,PCB_Supports,2026-11-18-01-54-53-349,Supports for internal PCB placement,1,Steel,,,Printable part - verify material
-7,Bottom_Cover,2026-11-18-01-23-42-966,Bottom enclosure cover,1,Steel,,,Printable part - verify material
-8,Upper_Platform,2026-11-18-01-23-42-263,Upper platform of the charging station,1,Steel,,,Printable part - verify material
-9,Cable_Routing,2026-11-18-01-54-56-501,Cable routing reference geometry,1,Steel,,,Check CAD model before printing
-10,Earbuds_Compartment,2026-11-18-01-54-52-643,Wireless earbuds compartment,1,Steel,,,Printable part - verify material
+S.No.,Part Name,Part Number,Description,Quantity,Material (Exported),Volume (cm3),Weight in PLA (g),Rate (INR/g),Printing Cost (INR),Total Cost (INR),Print Status
+1,Component_Clearance,2026-11-18-01-54-57-566,Reference only - clearance keep-out volumes. Do not print.,1,Steel,N/A,N/A,N/A,N/A,N/A,Not for printing
+2,Base_Enclosure,2026-11-18-01-23-41-298,Main outer enclosure,1,Steel,62.90,78.00,6,468.00,468.00,Printable part
+3,Reference_Envelopes,2026-11-18-01-54-56-940,Reference only - envelopes not real STEP models. Do not print.,1,Steel,N/A,N/A,N/A,N/A,N/A,Not for printing
+4,Phone_Holder,2026-11-18-01-29-00-402,Smartphone holder,1,Steel,69.28,85.90,6,515.40,515.40,Printable part 
+5,Watch_Holder,2026-11-18-01-29-01-069,Smartwatch holder,1,Steel,20.55,25.49,6,152.94,152.94,Printable part 
+6,PCB_Supports,2026-11-18-01-54-53-349,Supports for internal PCB placement,1,Steel,6.62,8.21,6,49.26,49.26,Printable part 
+7,Bottom_Cover,2026-11-18-01-23-42-966,Bottom enclosure cover,1,Steel,52.83,65.51,6,393.06,393.06,Printable part 
+8,Upper_Platform,2026-11-18-01-23-42-263,Upper platform of the charging station,1,Steel,59.36,73.60,6,441.60,441.60,Printable part 
+9,Cable_Routing,2026-11-18-01-54-56-501,Cable routing reference geometry,1,Steel,0.69,0.85,6,5.10,5.10,Check CAD model before printing
+10,Earbuds_Compartment,2026-11-18-01-54-52-643,Wireless earbuds compartment,1,Steel,12.34,15.30,6,91.80,91.80,Printable part 
+,TOTAL,,,,,,,,,2117.16,
