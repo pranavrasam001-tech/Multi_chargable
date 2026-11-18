@@ -1,0 +1,17 @@
+﻿Part Name,Multi_charge
+Working BOM,"as of November 18, 2026 at 10:16:22 AM UTC"
+Exported by,manishdatrik24@gmail.com
+Time of Export,"10:16 AM Nov 18, 2026"
+
+,Part Name,Revision/Version,Description,Part Number,Item Number,Lifecycle,Revision,State,Quantity,Material,Change Order
+,Multi_charge,,,2026-11-17-23-31-15-888,,,,Working,1,,
+1,Component_Clearance,,REFERENCE ONLY - clearance keep-out volumes. Do not print.,2026-11-18-01-54-57-566,,,,Working,1,Steel,
+2,Base_Enclosure,,,2026-11-18-01-23-41-298,,,,Working,1,Steel,
+3,Reference_Envelopes,,"REFERENCE ONLY - envelopes, not real STEP models. Do not print.",2026-11-18-01-54-56-940,,,,Working,1,Steel,
+4,Phone_Holder,,,2026-11-18-01-29-00-402,,,,Working,1,Steel,
+5,Watch_Holder,,,2026-11-18-01-29-01-069,,,,Working,1,Steel,
+6,PCB_Supports,,,2026-11-18-01-54-53-349,,,,Working,1,Steel,
+7,Bottom_Cover,,,2026-11-18-01-23-42-966,,,,Working,1,Steel,
+8,Upper_Platform,,,2026-11-18-01-23-42-263,,,,Working,1,Steel,
+9,Cable_Routing,,,2026-11-18-01-54-56-501,,,,Working,1,Steel,
+10,Earbuds_Compartment,,,2026-11-18-01-54-52-643,,,,Working,1,Steel,
