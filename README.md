@@ -2,6 +2,8 @@
 
 A 3D CAD project designed using **Autodesk Fusion 360**. The idea behind this project is to create a single desktop charging station where multiple devices can be placed in an organized way instead of keeping separate chargers and cables on the desk.
 
+Printables :- https://www.printables.com/model/1920749-multi_chargable_station
+
 ## About the Project
 
 This charging station is designed to hold a smartphone, smartwatch and wireless earbuds in one place. The design includes separate sections for each device, along with space for charging components and cable connections.
