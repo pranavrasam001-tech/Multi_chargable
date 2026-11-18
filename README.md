@@ -48,14 +48,4 @@ The repository is organized to keep the design files and project documentation i
 
 This project focuses on the mechanical design and 3D modelling of a multi-device charging station. External PCB and charging component references are used for layout planning. The electronic circuit design and actual charging functionality are not part of this CAD project.
 
-## Author
-
-**Manish Vanjari**
-
-B.Tech – Information Technology
-
-Sreenidhi Institute of Science and Technology
-
----
-
 This project helped me understand the process of creating a product design in Fusion 360, from the initial sketches to the final assembly. It also gave me practical experience in working with separate components, checking alignment and improving the overall design.
