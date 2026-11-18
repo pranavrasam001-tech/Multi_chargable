@@ -46,8 +46,23 @@ The project was completed in different stages:
 
 The repository is organized to keep the design files and project documentation in one place.
 
-## Note
+## Assembly Instructions
 
-This project focuses on the mechanical design and 3D modelling of a multi-device charging station. External PCB and charging component references are used for layout planning. The electronic circuit design and actual charging functionality are not part of this CAD project.
+follow these steps to put together the multi-device desktop charging station
 
-This project helped me understand the process of creating a product design in Fusion 360, from the initial sketches to the final assembly. It also gave me practical experience in working with separate components, checking alignment and improving the overall design.
+1. **prepare the parts:** collect all the 3d-printed parts and check that they are clean and ready for assembly.
+
+2. **place the internal components:** fit the charging boards and other required components into their designated spaces inside the main enclosure.
+
+3. **attach the smartphone holder:** position the phone holder on the upper platform and secure it using the planned mounting arrangement.
+
+4. **fit the smartwatch holder:** place the smartwatch charging dock in its designated position and make sure it is properly aligned.
+
+5. **install the earbuds compartment:** fit the earbuds compartment into its allocated space on the upper platform.
+
+6. **manage the cables:** arrange the cables through the provided routing space to keep them organised and prevent them from getting trapped inside the enclosure.
+
+7. **close the enclosure:** fit the bottom cover and check that all the components are properly positioned.
+
+8. **check the final assembly:** inspect the overall fit, alignment and appearance of the charging station to make sure all parts are in place.
+
